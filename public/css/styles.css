@@ -22,8 +22,7 @@ p {
   height: 50px;
   padding: 20px 50px;
   font-weight: bold;
-  cursor: pointer;
-  margin-right: 20px; }
+  cursor: pointer; }
 
 .btn-dark {
   background-color: #393c40;
@@ -58,8 +57,7 @@ p {
     align-items: center; }
     .nav .left-nav-holder .link-holder {
       height: 100%;
-      position: relative;
-      cursor: pointer; }
+      position: relative; }
       .nav .left-nav-holder .link-holder a {
         margin-top: 31px;
         color: #f2f2f2;
